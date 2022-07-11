@@ -32,8 +32,12 @@ font-weight: 600;}
 background-repeat:no-repeat ;
 margin: 0;
 background-position: right;}
-.experians-area{width:50%;
-padding: 10%;}
+.Experians-area{
+  width:90%;
+  padding: 2%;
+background-image: url(exp-bg.png);
+background-repeat: no-repeat;
+background-position: left;}
 
 
 .Experians-item{width:40%;
@@ -41,8 +45,12 @@ padding: 10%;}
               margin-left: 5% ;
             margin-right: 5%;
           box-shadow: 10px 10px 40px rgb(69, 69, 212);
-        border-radius:5px ;}
-          h2{font-size:30px ;}
+        border-radius:5px ;
+       ;}
+h2{font-size:30px ;}
 .blue1{color: black;}
 .blue2{color: blue;}
+#Baby{border-left:10px solid coral ;}
+#full{border-left:10px solid cyan;}
+
 
